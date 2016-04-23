@@ -1,0 +1,10 @@
+mv IMG-20160410-WA0001.jpg  impressionz1.jpg
+mv P_20160402_184149.jpg  impressionz2.jpg
+mv P_20160407_140702.jpg  impressionz3.jpg
+mv P_20160414_100239.jpg  impressionz4.jpg
+mv P_20160416_133249.jpg  impressionz5.jpg
+mv P_20160416_145100.jpg  impressionz6.jpg
+mv P_20160417_195953.jpg  impressionz7.jpg
+mv P_20160417_200401.jpg  impressionz8.jpg
+mv P_20160417_200938.jpg  impressionz9.jpg
+mv P_20160420_214905.jpg  impressionz10.jpg

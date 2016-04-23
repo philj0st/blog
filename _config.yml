@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Phil in New York
 subtitle:
-description:
-author: John Doe
-language:
+description: things i learn at RC and explore in the urban jungle of New York City.
+author: phil
+language: default
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://phil.jost.rocks
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -40,7 +40,7 @@ future: true
 highlight:
   enable: true
   line_number: true
-  auto_detect: false
+  auto_detect: true
   tab_replace:
 
 # Category & Tag
@@ -68,4 +68,12 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: ftpsync
+  host: <host>
+  user: <user>
+  pass: <password>
+  remote: /
+  port: 21
+  ignore: _config.yml
+  connections: 1
+  verbose: false
